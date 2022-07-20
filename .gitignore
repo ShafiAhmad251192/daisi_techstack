@@ -1,0 +1,8 @@
+# virtual environment
+venv
+
+# testing daisies file
+testing_daisies.py
+
+# Requirements file
+requirements.txt
